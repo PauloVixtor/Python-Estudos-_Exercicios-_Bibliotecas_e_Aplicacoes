@@ -1,5 +1,5 @@
 # Python-Estudos-_Exercicios-_Bibliotecas_e_Aplicacoes
-<h5>Esse projeto contém aulas e exercícios que utilizei para aprende Python, algumas integrações e bibliotecas que conheço.</h5></br>
+<h3>Esse projeto contém aulas e exercícios que utilizei para aprende Python, algumas integrações e bibliotecas que conheço.</h3></br>
 
 <b><h1>Curso em Python</h1></b>
 </br>
