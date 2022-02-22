@@ -195,7 +195,7 @@
 <ul>👨‍💻 Projeto enviar e-mail</ul>
 <ul>👨‍💻 RPA_Automação</ul>
 <ul>👨‍💻 Selenium, pandas, openpyxl para extrair PDF na prefeitura</ul>
-<ul>👨‍💻 Estudos com graficosProjeto enviar e-mail</ul>
+<ul>👨‍💻 Estudos com graficos</ul>
 
 </br>
 <h2>Bibliotecas Usadas nos projetos: </h2></b>
